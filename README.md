@@ -13,6 +13,8 @@ EDITING THE README FILE
 
 _Get started using GitHub in less than an hour._
 
+Hola
+
 <!-- 
   <<< Author notes: Start of the course >>> 
   Include start button, a note about Actions minutes,
