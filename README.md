@@ -5,9 +5,15 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
+EDITING
+
+EDITING THE README FILE
+
 # Introduction to GitHub
 
 _Get started using GitHub in less than an hour._
+
+Hola
 
 <!-- 
   <<< Author notes: Start of the course >>> 
